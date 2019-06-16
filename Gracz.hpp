@@ -1,10 +1,4 @@
-//
-//  Gracz.hpp
-//  satki
-//
-//  Created by Adam on 08/06/2019.
-//  Copyright © 2019 Adam. All rights reserved.
-//
+
 
 #ifndef Gracz_hpp
 #define Gracz_hpp
